@@ -39,3 +39,17 @@ You must perform this operation **in-place** without using extra space for anoth
 
 ---
 
+---
+
+### 📝 Instructions
+- Try solving before the mentor session  
+- Aim for an in-place solution  
+- Think about minimizing operations  
+
+---
+
+### 🚀 Challenge
+Can you solve this in **O(N)** time with **O(1)** extra space?
+
+-------
+
